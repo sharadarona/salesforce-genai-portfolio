@@ -1,4 +1,4 @@
 ## 📸 Screenshots
 
 ### Case Summary Output
-![Case Record Summary](https://github.com/sharadarona/salesforce-genai-portfolio/main/assets/Screenshot_Case_record.png)
+![Case Record Summary](https://github.com/sharadarona/salesforce-genai-portfolio/blob/main/assets/Screenshot_Case_Record.png)
