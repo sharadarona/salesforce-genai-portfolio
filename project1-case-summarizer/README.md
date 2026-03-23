@@ -1,3 +1,23 @@
+### 📁 Project 1 — AI Case Summarizer
+
+## 📌 Overview
+Auto-generates a structured AI summary on every new Case using a secure FastAPI middleware, OpenAI GPT, input guardrails, 
+PII redaction, and output safety filters.
+
+## 🎯 Problem Statement
+Agent/user saves lots of time and energy by looking Salesforce Case summary at a single field.No need to check multiple field values 
+and analyse to get essence of Case.
+
+## 🏗️ Architecture
+![architecture diagram](https://github.com/sharadarona/salesforce-genai-portfolio/blob/main/assets/salesforce-ai-architecture.svg)
+
+### Case Summary Output
+![Case Record Summary](https://github.com/sharadarona/salesforce-genai-portfolio/blob/main/assets/Screenshot_Case_Record.png)
+
+## 🛠️ Tech Stack
+- Salesforce (Apex,Flow,Rest api)
+- Python / FastAPI,render
+
 ## 📸 Screenshots
 
 ### Case Summary Output
@@ -17,4 +37,11 @@
 
 ### FastApi Log Output
 ![FastApi Log](https://github.com/sharadarona/salesforce-genai-portfolio/blob/main/assets/Screenshot_FastApi_Log.png)
+
+## 🔗 Repos
+- [Salesforce Metadata](https://github.com/sharadarona/salesforce-ai-case-summarization)
+- [Python Middleware](https://github.com/sharadarona/salesforce-ai-middleware)
+  
+## 👩‍💻 Author
+Sharada Rona
 
