@@ -16,12 +16,9 @@ and analyse to get essence of Case.
 
 ## 🛠️ Tech Stack
 - Salesforce (Apex,Flow,Rest api)
-- Python / FastAPI,render
+- Python/FastAPI,Open Ai,render
 
 ## 📸 Screenshots
-
-### Case Summary Output
-![Case Record Summary](https://github.com/sharadarona/salesforce-genai-portfolio/blob/main/assets/Screenshot_Case_Record.png)
 
 ### Salesforce Flow
 ![Flow in Flow Builder](https://github.com/sharadarona/salesforce-genai-portfolio/blob/main/assets/Screenshot_Flow.png)
@@ -43,5 +40,7 @@ and analyse to get essence of Case.
 - [Python Middleware](https://github.com/sharadarona/salesforce-ai-middleware)
   
 ## 👩‍💻 Author
-Sharada Rona
+- Sharad Yadav
+- GitHub:   [github.com/sharadarona](https://github.com/sharadarona)
+- LinkedIn: [linked/in/sharadarona](https://linked/in/sharadarona/)
 
