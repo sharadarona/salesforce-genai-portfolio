@@ -1,8 +1,10 @@
 # 🚀 Salesforce GenAI Portfolio
-Provides a brief idea abot project build around Salesforce and Gen AI
+Provides a brief idea about project built around Salesforce and Gen AI.
+
 ## Projects
 
-### 📁 Project 1 — AI Case Summarizer 🔗 [Project Case-Summarizer](https://github.com/sharadarona/salesforce-genai-portfolio/tree/main/project1-case-summarizer)
+### 📁 Project 1 — AI Case Summarizer
+🔗 [Project Case-Summarizer](https://github.com/sharadarona/salesforce-genai-portfolio/tree/main/project1-case-summarizer)
 > Salesforce + Python FastAPI
 > Repos
 - 🔗 [Salesforce Metadata](https://github.com/sharadarona/salesforce-ai-case-summarization)
